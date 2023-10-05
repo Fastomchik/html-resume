@@ -1,0 +1,55 @@
+/* Стилизация заголовка */
+h1 {
+  color: blue;
+  font-size: 24px;
+}
+
+/* Стилизация подзаголовков */
+h2 {
+  color: green;
+  font-size: 20px;
+}
+
+/* Стилизация текста */
+p {
+  color: black;
+  font-size: 16px;
+}
+
+/* Стилизация ссылок */
+a {
+  color: red;
+  text-decoration: none;
+}
+
+/* Стилизация списков */
+ul, ol {
+  color: purple;
+  font-size: 16px;
+}
+
+/* Стилизация таблиц */
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+/* Стилизация горизонтальной линии */
+hr {
+  border: none;
+  border-top: 1px solid black;
+}
+
+/* Стилизация жирного текста */
+strong {
+  font-weight: bold;
+}
+
+/* Стилизация курсивного текста */
+em {
+  font-style: italic;
+}
